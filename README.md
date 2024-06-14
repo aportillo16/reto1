@@ -9,6 +9,6 @@ buildFeatures {
         viewBinding = true
 }
 
-Esto para sustituir las llamadas a los objetos de las Activitys por medio del viewBindingById() 
+Esto para sustituir las llamadas a los objetos de las Activitys por medio del findViewById() 
 
 ![image](https://github.com/aportillo16/reto1/assets/166572036/9bf1ea21-4d5e-4f0b-b4f5-b1f5dbd7cdf1)
