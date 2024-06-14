@@ -1,9 +1,9 @@
 RETO 1 BI
 
-DESCRIPCIÓN FUNCIONAL
+DESCRIPCIÓN FUNCIONAL: 
 El propósito del ejercicio es ingresar texto en un primer EditText y por medio de un botón se eliminará de este primer EditText para luego pasarlo a un segundo EditText.
 
-DESCRIPCIÓN TÉCNICA
+DESCRIPCIÓN TÉCNICA: 
 A nivel técnico, se hará uso de:
 buildFeatures {
         viewBinding = true
